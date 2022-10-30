@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<?php include 'global.php';?>
+<html dark-theme='light'>
+<head>
+    <title>About US - KrnlTUBE</title>
+    <link rel="stylesheet" type="text/css" href="./css/global.css">
+    <link rel="stylesheet" type="text/css" href="./css/upload.css">
+</head>
+<body>
+    <?php include("header.php");?>
+    <strong><h2>About US</h2></strong>
+    <strong><h2>hello im legamer a small developper that have codded this website beacuase i wanted to code it just for fun and this website will stay up whitout any stop schedule have fun in krnltube -legamer</h2></strong>
+    <hr>
+	<?php include("footer.php") ?>
+</body>
+</html>
